@@ -1,5 +1,7 @@
 # Iron Standard – PLA Filament Quality Notes
 
+This repository documents internal quality principles used in the development of Iron Standard Filament.
+
 ## Purpose
 This repository documents the general standards, assumptions, and decision criteria used when evaluating PLA filament intended for routine FDM printing.
 
